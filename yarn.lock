@@ -812,6 +812,13 @@
     mime-types "^2.1.21"
     slash "^2.0.0"
 
+"@gridsome/transformer-json@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@gridsome/transformer-json/-/transformer-json-0.2.1.tgz#76989b964ff5a13e7f64e1e59bcfca80c8bc0114"
+  integrity sha512-W/pFbjq+K3ftUK4aDa8zuqHq7jGSpDCUyvbH++m+5HMwTbe3eB2FLC7x2guGXzpw/jwHO1ukkZExecsMkAAibw==
+  dependencies:
+    json-parse-better-errors "^1.0.2"
+
 "@gridsome/transformer-remark@^0.5.0":
   version "0.5.0"
   resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.5.0.tgz#e872e91edc316205c507533395b8f1bc985185a1"
