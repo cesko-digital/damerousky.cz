@@ -5,7 +5,7 @@ Pro generování statického webu se používá [Gridsome](https://gridsome.org/
 
 ### Editace statického obsahu
 
-Statický obsah tvoří stránky v `src/pages`. Mohou být v Markdown nebo HTML.
+Statický obsah na adresách `/page/**` tvoří stránky v `/content/pages` psané v Markdownu.
 
 ### Lokální vývoj 
 1. Je potřeba mít Node.js.

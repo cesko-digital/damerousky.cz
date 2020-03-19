@@ -5,10 +5,10 @@
         <g-link to="/">DámeRoušky.cz</g-link>
       </strong>
       <nav class="nav">
-        <g-link class="nav__link" to="/pro-seniory">Informace pro seniory</g-link>
-        <g-link class="nav__link" to="/vytvorit-misto">Jak vytvořit nové místo</g-link>
-        <g-link class="nav__link" to="/faq">Časté dotazy (a odpovědi)</g-link>
-        <g-link class="nav__link" to="/najit-mista">Jak najít nejbližší místa s rouškou</g-link>
+        <g-link class="nav__link" to="/page/pro-seniory">Informace pro seniory</g-link>
+        <g-link class="nav__link" to="/page/vytvorit-misto">Jak vytvořit nové místo</g-link>
+        <g-link class="nav__link" to="/page/faq">Časté dotazy (a odpovědi)</g-link>
+        <g-link class="nav__link" to="/page/najit-mista">Jak najít nejbližší místa s rouškou</g-link>
       </nav>
     </header>
     <slot/>
