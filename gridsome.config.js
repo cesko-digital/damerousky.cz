@@ -11,7 +11,7 @@ module.exports = {
             {
                 path: (node) => {
                     let path = node.path.substring('content/pages/'.length);
-                    return `/page/${path}`;
+                    return `/${path}`;
                 }
             }
         ]

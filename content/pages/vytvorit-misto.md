@@ -10,7 +10,7 @@ Jste instituce a potřebujete roušky? Kontaktuje správce webu na [damerousky@g
 1. Svoje místo **pojmenujte** - zadejte název firmy nebo svoje jméno.
 1. Obrázek nahrávat nemusíte.
 1. V **Kategorii** (Category) níže vyberte tu správnou variantu: **„nabízím/šiju roušky“**, **„distribuční místo“**, **„nabízím materiál“**. Stav místa můžete kdykoliv změnit podle aktuální situace.
-1. Do pole **Popis** (Description) zadejte popis.Připište také, zda roušky vyvařujete. Příklad: Jiřina, šiju 10 denně, nevyvařuji. nebo Ráda pošlu už nastříhané látky. Napište mi rozměry. TIP: Pokud šijete roušky, můžete vložit i odkaz na svůj objednávkový formulář. Jak na to se dozvíte níže.
+1. Do pole **Popis** (Description) zadejte popis.Připište také, zda roušky vyvařujete. Příklad: *Jiřina, šiju 10 denně, nevyvařuji.* nebo *Ráda pošlu už nastříhané látky. Napište mi rozměry.* TIP: Pokud šijete roušky, můžete vložit i odkaz na svůj objednávkový formulář. Jak na to se dozvíte níže.
 1. Napište přesnou adresu, včetně čísla popisného a vchodu.
 1. Přidejte kontakt - doporučujeme vložit e-mail.
 1. Vyberte, zda roušky, materiál nebo opravu nabízíte **zdarma**, nebo chcete **zaplatit**. Pokud chcete zaplatit, uveďte v popisu orientační cenu za jednu roušku.
@@ -29,11 +29,11 @@ Takto vytvořený formulář můžete začít používat. **Odkaz** na ten svůj
 
 ## U svého profilu si můžete nastavit „semafor“:
 
-zelená = Mám roušky, ozvěte se.
-žlutá = Chybí mi materiál, doneste prosím!
-červená = Pracuju a nestíhám. Prosím nepište, počkejte.
+* zelená = Mám roušky, ozvěte se.
+* žlutá = Chybí mi materiál, doneste prosím!
+* červená = Pracuju a nestíhám. Prosím nepište, počkejte.
 
-TODO obrázek
+![snímek části obrazovky s filtry](/obrazky/semafor.png "Použití filtrů jako semaforu.")
 
 ## Nedaří se změnit stav vašeho místa?
 
@@ -43,12 +43,11 @@ Kontaktuje správce webu na [damerousky@gmail.com](mailto:damerousky@gmail.com).
 
 Podívejte se, zda ve vašem okolí už nějaká distribuční místa neexistují (začaly je zakládat třeba radnice a městské úřady) a zvažte, zda nespojit síly.
 
-Distribučním místem může být lékárna nebo i krabice u vchodu do supermarketu či na pumpě po dohodě s majiteli. Lidé k vám budou nosit hotové roušky a vy je budete distribuovat dál. Je proto důležité zadat přesnou adresu. Napište také, zda už nějaké roušky na místě máte a rozdáváte, nebo teprve sbíráte.
+Distribučním místem může být lékárna nebo i krabice u vchodu do supermarketu či na pumpě po dohodě s majiteli. Lidé k vám budou nosit hotové roušky a vy je
+budete distribuovat dál. Je proto důležité **zadat přesnou adresu**. Napište také, zda už nějaké **roušky na místě máte** a rozdáváte, nebo teprve **sbíráte**.
 
 ## Něco na webu nefunguje?
 
-Pokud máte potíže, podívejte se nejdříve na často kladené otázky
-
-https://www.damerousky.cz/page/caste-dotazy-a-odpovedi. 
+Pokud máte potíže, podívejte se nejdříve na [často kladené otázky](/page/faq).
 
 Pokud tam řešení nenajdete, kontaktuje správce webu na [damerousky@gmail.com](mailto:damerousky@gmail.com).
