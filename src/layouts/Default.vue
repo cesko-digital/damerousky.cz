@@ -1,53 +1,33 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">DámeRoušky.cz</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/pro-seniory">Informace pro seniory</g-link>
-        <g-link class="nav__link" to="/vytvorit-misto">Jak vytvořit nové místo</g-link>
-        <g-link class="nav__link" to="/faq">Časté dotazy (a odpovědi)</g-link>
-        <g-link class="nav__link" to="/najit-mista">Jak najít nejbližší místa s rouškou</g-link>
-        <g-link class="nav__link" to="/o-nas">O nás</g-link>
-      </nav>
-    </header>
-    <slot/>
-  </div>
+    <v-app>
+        <v-app-bar color="primary" dark app>
+            <v-tabs align-with-title>
+                <v-tabs-slider></v-tabs-slider>
+                <v-tab to="/">DámeRoušky.cz</v-tab>
+                <v-tab to="/mapa">Mapa</v-tab>
+                <v-tab to="/najit-mista">Jak najít nejbližší místa s rouškou</v-tab>
+                <v-tab to="/vytvorit-misto">Jak vytvořit nové místo</v-tab>
+                <v-tab to="/pro-seniory">Informace pro seniory</v-tab>
+                <v-tab to="/faq">Časté dotazy (a odpovědi)</v-tab>
+                <v-tab to="/o-nas">O nás</v-tab>
+            </v-tabs>
+        </v-app-bar>
+
+        <v-content>
+            <v-container>
+                <slot/>
+            </v-container>
+        </v-content>
+        <v-footer color="primary" dark app>
+            <span class="caption">© 2020 <a href="https://cesko.digital" class="white--text">Česko.Digital</a></span>
+        </v-footer>
+    </v-app>
 </template>
 
 <static-query>
-query {
-  metadata {
+    query {
+    metadata {
     siteName
-  }
-}
+    }
+    }
 </static-query>
-
-<style>
-body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
-}
-
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
-}
-
-.nav__link {
-  margin-left: 20px;
-}
-</style>

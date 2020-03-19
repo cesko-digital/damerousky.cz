@@ -6,6 +6,7 @@
 
 module.exports = {
     siteName: 'damerousky.cz',
+    siteUrl: 'https://www.damerousky.cz',
     templates: {
         Doc: [
             {
