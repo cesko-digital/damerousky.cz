@@ -1,14 +1,15 @@
-# Default starter for Gridsome
+# Statický web damerousky.cz
+Adresa webu pro vývoj: https://damerousky-cz.now.sh
 
-This is the project you get when you run `gridsome create new-project`.
+Pro generování statického webu se používá [Gridsome](https://gridsome.org/).
 
-### 1. Install Gridsome CLI tool if you don't have
+### Editace statického obsahu
 
-`npm install --global @gridsome/cli`
+Statický obsah tvoří stránky v `src/pages`. Mohou být v Markdown nebo HTML.
 
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
+### Lokální vývoj 
+1. Je potřeba mít Node.js.
+2. Nainstalovat [Gridsome](https://gridsome.org/docs/#how-to-install)
+3. Přejít do adresáře se zdrojáky webu `cd damerousky.cz`
+3. Spustit lokální server `gridsome develop`. Lokální web poběží na `http://localhost:8080`
 4. Happy coding 🎉🙌
