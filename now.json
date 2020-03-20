@@ -5,6 +5,11 @@
       "destination": "/mapa?id=$1"
     },
     {
+      "source": "/",
+      "destination": "/mapa",
+      "statusCode": 303
+    },
+    {
       "source": "/about-us",
       "destination": "/o-nas"
     },
