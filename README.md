@@ -8,7 +8,9 @@ Statický obsah (stránky pod odkazem *Informace*) je psaný v [Markdownu](https
 ## Editace přímo na GitHubu 
 Stránky můžete editovat přímo ve webovém prohlížeči na GitHubu. Otevřete si příslušný soubor a pomocí tužky v toolbaru se přepnete do
 režimu editace. Pomocí **Preview changes** se můžete podívat, jak přibližně bude obsah vypadat – ale zobrazuje se to v rámci GitHubu, takže
-nebudou fungovat např. vložené obrázky. Změny připravíte k publikování pomocí **Commit changes**. Vyplňte prosím alespoň první řádek
+nebudou fungovat např. vložené obrázky.
+
+Změny připravíte k publikování pomocí **Commit changes**. Vyplňte prosím alespoň první řádek
 s popisem změn (ten s placeholderem *Update <jméno souboru>*). Dole zvolte variantu **Create a new branch for this commit and start a pull request.**
 Tím se změny nepropíšou hned na ostrý web, ale místo toho se vytvoří dočasná adresa (viz níže), na které je možné změny zkontrolovat. Teprve pak někdo
 s právem merge propíše změny do hlavního repository a tím se publíkují na web.
@@ -23,6 +25,8 @@ pokud právo zápisu do hlavního rpository nemáte.
 ## Náhled upravené verze
 Dočasná adresa s náhledem nové verze webu se objeví v komentáři ke commitu od robota **now**. Seznam otevřených pull requestů je zde: [Pull requests](https://github.com/cesko-digital/damerousky.cz/pulls).
 Komentář od robota bude vypadat takhle nějak:
+> now bot replied 1 hour ago
+>
 > Successfully deployed to following URLs:
 >
 > * https://damerouskycz-60idy71ig.now.sh
