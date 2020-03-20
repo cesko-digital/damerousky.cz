@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    const baseMapURL = 'https://www.damerousky.cz/';
+    const baseMapURL = 'https://www.mapotic.com/rouskyven/';
 
     export default {
         data: () => ({
