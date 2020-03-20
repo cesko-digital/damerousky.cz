@@ -2,7 +2,7 @@
     <v-app>
         <v-app-bar color="primary" app>
             <!--<v-app-bar-nav-icon></v-app-bar-nav-icon>-->
-            <v-btn href="/" text>
+            <v-btn href="/mapa" text>
                 <v-toolbar-title>DámeRoušky.cz</v-toolbar-title>
             </v-btn>
             <v-toolbar-items>
