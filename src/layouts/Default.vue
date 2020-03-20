@@ -1,17 +1,47 @@
 <template>
     <v-app>
-        <v-app-bar color="primary" dark app>
-            <v-tabs align-with-title>
-                <v-tabs-slider></v-tabs-slider>
-                <v-tab to="/">DámeRoušky.cz</v-tab>
-                <v-tab to="/mapa">Mapa</v-tab>
-                <v-tab to="/najit-mista">Jak najít nejbližší místa s rouškou</v-tab>
-                <v-tab to="/vytvorit-misto">Jak vytvořit nové místo</v-tab>
-                <v-tab to="/pro-seniory">Informace pro seniory</v-tab>
-                <v-tab to="/faq">Časté dotazy (a odpovědi)</v-tab>
-                <v-tab to="/o-nas">O nás</v-tab>
-            </v-tabs>
+        <v-app-bar color="primary" dark clipped-left app>
+            <v-app-bar-nav-icon></v-app-bar-nav-icon>
+            <v-btn href="/" text>
+                <v-toolbar-title>DámeRoušky.cz</v-toolbar-title>
+            </v-btn>
+            <v-toolbar-items>
+                <v-menu offset-y>
+                    <template v-slot:activator="{ on }">
+                        <v-btn text append="" v-on="on">Informace</v-btn>
+                    </template>
+                    <v-list>
+                        <v-list-item link href="/najit-mista">
+                            <v-list-item-content>
+                                <v-list-item-title>Jak najít nejbližší místa s rouškou</v-list-item-title>
+                            </v-list-item-content>
+                        </v-list-item>
+                        <v-list-item link href="/vytvorit-misto">
+                            <v-list-item-content>
+                                <v-list-item-title>Jak vytvořit nové místo</v-list-item-title>
+                            </v-list-item-content>
+                        </v-list-item>
+                        <v-list-item link href="/pro-seniory">
+                            <v-list-item-content>
+                                <v-list-item-title>Informace pro seniory</v-list-item-title>
+                            </v-list-item-content>
+                        </v-list-item>
+                        <v-list-item link href="/faq">
+                            <v-list-item-content>
+                                <v-list-item-title>Časté dotazy (a odpovědi)</v-list-item-title>
+                            </v-list-item-content>
+                        </v-list-item>
+                        <v-list-item link href="/o-nas">
+                            <v-list-item-content>
+                                <v-list-item-title>O nás</v-list-item-title>
+                            </v-list-item-content>
+                        </v-list-item>
+                    </v-list>
+                </v-menu>
+            </v-toolbar-items>
         </v-app-bar>
+        <v-navigation-drawer clipped app>
+        </v-navigation-drawer>
 
         <v-content>
             <v-container>
@@ -19,7 +49,7 @@
             </v-container>
         </v-content>
         <v-footer color="primary" dark app>
-            <span class="caption">© 2020 <a href="https://cesko.digital" class="white--text">Česko.Digital</a></span>
+            <span class="caption">© 2020 <a href="https://cesko.digital" class="white--text">Česko.Digital</a> a přispěvatelé</span>
         </v-footer>
     </v-app>
 </template>
