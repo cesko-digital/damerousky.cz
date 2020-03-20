@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/(\\d+-.+)",
+      "destination": "/mapa?id=$1"
+    },
+    {
       "source": "/about-us",
       "destination": "/o-nas"
     },
