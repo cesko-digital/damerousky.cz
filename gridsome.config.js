@@ -15,14 +15,6 @@ module.exports = {
                     return `/${path}`;
                 }
             }
-        ],
-        Redirect: [
-            {
-                path: (node) => {
-                    let path = node.path.substring('content/redirects/'.length);
-                    return `/${path}`;
-                }
-            }
         ]
     },
     plugins: [
@@ -36,13 +28,6 @@ module.exports = {
                         '@gridsome/remark-prismjs'
                     ]
                 }
-            }
-        },
-        {
-            use: '@gridsome/source-filesystem',
-            options: {
-                path: 'content/redirects/**/*.json',
-                typeName: 'Redirect'
             }
         }
     ]

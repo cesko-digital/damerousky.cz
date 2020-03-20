@@ -1,7 +1,7 @@
 <template>
     <v-app>
         <v-app-bar color="primary" dark app>
-            <v-app-bar-nav-icon></v-app-bar-nav-icon>
+            <!--<v-app-bar-nav-icon></v-app-bar-nav-icon>-->
             <v-btn href="/" text>
                 <v-toolbar-title>DámeRoušky.cz</v-toolbar-title>
             </v-btn>
