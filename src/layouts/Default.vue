@@ -1,6 +1,6 @@
 <template>
     <v-app>
-        <v-app-bar color="primary" dark app>
+        <v-app-bar color="primary" app>
             <!--<v-app-bar-nav-icon></v-app-bar-nav-icon>-->
             <v-btn href="/" text>
                 <v-toolbar-title>DámeRoušky.cz</v-toolbar-title>
@@ -48,8 +48,8 @@
         <v-content>
             <slot/>
         </v-content>
-        <v-footer color="primary" dark app>
-            <span class="caption">© 2020 <a href="https://cesko.digital" class="white--text">Česko.Digital</a> a přispěvatelé</span>
+        <v-footer color="primary" app>
+            <span class="caption">© 2020 <a href="https://cesko.digital" class="black--text">Česko.Digital</a> a přispěvatelé</span>
         </v-footer>
     </v-app>
 </template>
@@ -61,3 +61,9 @@
     }
     }
 </static-query>
+
+<style>
+    .v-application .container a {
+        color: #FF6F00 !important;
+    }
+</style>
