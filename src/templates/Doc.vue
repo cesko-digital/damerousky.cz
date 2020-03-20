@@ -1,9 +1,11 @@
 <template>
     <Layout>
+        <v-container>
         <h1>
             {{ $page.doc.title }}
         </h1>
         <div class="markdown" v-html="$page.doc.content"/>
+        </v-container>
     </Layout>
 </template>
 

@@ -1,11 +1,12 @@
 <template>
     <v-app>
-        <v-app-bar color="primary" dark clipped-left app>
+        <v-app-bar color="primary" dark app>
             <v-app-bar-nav-icon></v-app-bar-nav-icon>
             <v-btn href="/" text>
                 <v-toolbar-title>DámeRoušky.cz</v-toolbar-title>
             </v-btn>
             <v-toolbar-items>
+                <v-btn href="/mapa" text>Mapa roušek</v-btn>
                 <v-menu offset-y>
                     <template v-slot:activator="{ on }">
                         <v-btn text append="" v-on="on">Informace</v-btn>
@@ -40,13 +41,12 @@
                 </v-menu>
             </v-toolbar-items>
         </v-app-bar>
+        <!--
         <v-navigation-drawer clipped app>
         </v-navigation-drawer>
-
+        -->
         <v-content>
-            <v-container>
-                <slot/>
-            </v-container>
+            <slot/>
         </v-content>
         <v-footer color="primary" dark app>
             <span class="caption">© 2020 <a href="https://cesko.digital" class="white--text">Česko.Digital</a> a přispěvatelé</span>
