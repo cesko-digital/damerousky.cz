@@ -12,9 +12,10 @@ Linku provozuje společnost Elpida, více najdete na [www.elpida.cz/linka-senior
 ## Sousedská pomoc
 
 Další místo, kam se můžete obrátit, je web [Sousedská pomoc](https://sousedskapomoc.cz/). Stačí zadat vaše město a pak
-v [jednoduchém formuláři](https://sousedskapomoc.cz/homepage/post-demand) vyplníte, co potřebujete (roušku) a kam to potřebujete dovézt. Začnete tady: https://sousedskapomoc.cz/homepage/post-demand
+v [jednoduchém formuláři](https://sousedskapomoc.cz/homepage/post-demand) vyplníte, co potřebujete (roušku) a kam to
+potřebujete dovézt. Začnete tady: https://sousedskapomoc.cz/homepage/post-demand
 
 ## Další
 
 Dobré rady najdete také v článku [Senioři a karanténa](https://dvojka.rozhlas.cz/seniori-a-karantena-odpovedi-na-nejcastejsi-otazky-8164433)
- nebo v článku [co dělat, když mám podezření na onemocnění](https://www.i60.cz/clanek/detail/25211/o-koronaviru-prehledne-kontakty-linky-pomoci-rady-co-delat-kdyz-mam-podezreni-na-onemocneni).
+nebo v článku [co dělat, když mám podezření na onemocnění](https://www.i60.cz/clanek/detail/25211/o-koronaviru-prehledne-kontakty-linky-pomoci-rady-co-delat-kdyz-mam-podezreni-na-onemocneni).

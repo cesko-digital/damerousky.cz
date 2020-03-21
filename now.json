@@ -14,20 +14,45 @@
       "destination": "/o-nas"
     },
     {
-      "source": "/page/caste-dotazy-a-odpovedi",
-      "destination": "/faq"
-    },
-    {
-      "source": "/page/informace-pro-seniory",
-      "destination": "/pro-seniory"
+      "source": "/page/jak-vytvorit-nove-misto",
+      "destination": "/vytvorit-misto"
     },
     {
       "source": "/page/jak-najit-nejblizsi-mista-s-rouskou",
       "destination": "/najit-mista"
     },
     {
-      "source": "/page/jak-vytvorit-nove-misto",
-      "destination": "/vytvorit-misto"
+      "source": "/page/jak-ziskam-rousku",
+      "destination": "/ziskat-rousku"
+    },
+
+    {
+      "source": "/page/jak-vyrobit-rousku-a-jak-se-o-ni-starat",
+      "destination": "/vyroba-a-pece"
+    },
+    {
+      "source": "/page/jak-pomoci-kdyz-nesiju",
+      "destination": "/nesiju"
+    },
+    {
+      "source": "/page/opravy-sicich-stroju",
+      "destination": "/opravy-sicich-stroju"
+    },
+    {
+      "source": "/page/informace-pro-seniory",
+      "destination": "/pro-seniory"
+    },
+    {
+      "source": "/page/caste-dotazy-a-odpovedi",
+      "destination": "/faq"
+    },
+    {
+      "source": "/page/basic-information-in-english",
+      "destination": "/english-info"
+    },
+    {
+      "source": "/page/o-webu-a-vasich-datech",
+      "destination": "/web-a-data"
     }
   ]
 }

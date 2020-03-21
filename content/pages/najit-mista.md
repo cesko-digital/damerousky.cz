@@ -1,5 +1,9 @@
 # Jak najít nejbližší místa s rouškou
 
-Nahoře můžete zadat vaši adresu (město) a enter. Dole můžete vybrat zelenou pro zobrazení jen míst s rouškami.
+Do políčka vpravo nahoře nad mapou zadejte svou adresu nebo město a stiskněte enter.
 
-![Snímek obrazovky s vyhledávacím políčkem.](/obrazky/screenshot-najit-misto.png "Město nebo adresu zadejte do vyhledávacího pole.")
+Dole pak vyberte zelenou ikonu pro zobrazení míst, které mají roušky ušité a k dispozici.
+
+Roušky také můžete získat na některém z distribučních míst - oranžová ikona s budovou.
+
+![Snímek obrazovky s ovládáním mapy](/obrazky/jak-ziskat.webp)
