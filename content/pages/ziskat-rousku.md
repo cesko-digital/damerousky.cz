@@ -4,6 +4,7 @@
 
 ### Jste nemocnice? Instituce?
 Do políčka vpravo nahoře nad mapou zadejte svou adresu nebo město a stiskněte enter. Pak najděte nejbližší sběrné místo a kontaktujte je. Pokud byste měli jakékoli potíže, pište nám na damerousky@gmail.com.
+Zároveň můžete zadat do mapy sebe jako instituci, která roušky potřebuje. Vytvořit takové místo je snadné, postupujte podle [návodu](/vytvorit-misto).
 
 ### Pro jednotlivce
 Poté, co jste zadali svou adresu nebo město, dole vyberte **zelenou** ikonu pro zobrazení míst, které mají roušky ušité a k dispozici. Domluvte se na odměně - tou může být například přinesený nákup, léky. 
