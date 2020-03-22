@@ -123,3 +123,5 @@ Na Slovensku vznikl analogický projekt [Dajme ruška](https://www.mapotic.com/r
 Web vznikl ve spolupráci expertních dobrovolníků z komunity [Česko.Digital](https://cesko.digital). Starají se o něj Ria, Honza, Lucy a Martin
 a noví pomocníci přicházejí každý den. Celý projekt běží i díky podpoře [Mapotic.com](https://mapotic.com), která zdarma propůjčila své nástroje a podporu
 svých techniků. Pokud nám chcete napsat, můžete na [damerousky@gmail.com](mailto:damerousky@gmail.com).
+
+xxxx
