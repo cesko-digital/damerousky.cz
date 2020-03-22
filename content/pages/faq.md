@@ -1,24 +1,21 @@
 # Časté dotazy (a odpovědi)
-## Sháníte materiál na šití roušek? Najděte ty, které ho nabízejí.
+## Sháníte materiál na šití roušek? Najděte ty, kteří ho nabízejí.
 
 Hledejte na mapě modré body. Můžete je i filtrovat vpravo dole. Přečtěte si, co kdo nabízí. Někdo zdarma, někdo za peníze a zkontaktujte se nejlépe e-mailem. 
 Využijte i stránky, které pomáhají s dopravou - kurýři vám ušetří čas a minimalizují riziko.
 
 ## Nabízíte materiál? Najděte ty, kterým chybí.
 
-Přidejte do mapy ([návod zde](/vytvorit-misto) modrý bod (kategorie „nabízím materiál“), napište jaké látky nabízíte, zda zdarma nebo si materiál chcete nechat zaplatit,
-a uveďte na sebe e-mail.
+Přidejte do mapy ([návod zde)](/vytvorit-misto) modrý bod (kategorie „nabízím materiál“), napište jaké látky nabízíte, zda zdarma nebo si materiál chcete nechat zaplatit, a uveďte na sebe e-mail.
 
-Jakmile nabídka materiálu přestane platit, bod zrušte, předejdete tím dalším dotazům. Pokud by vám místo zrušit nešlo, pošlete nám zprávu na
-[damerousky@gmail.com](mailto:damerousky@gmail.com) a my bod zrušíme.
+Jakmile nabídka materiálu přestane platit, bod zrušte, předejdete tím dalším dotazům. Pokud by vám místo zrušit nešlo, pošlete nám zprávu na [damerousky@gmail.com](mailto:damerousky@gmail.com) a my bod zrušíme.
 
 ## Šijete roušky a nestíháte distribuci? Využijte distribuční místa.
 
-Neztrácejte čas distribucí. Předávám roušek můžete pověřit člena rodiny nebo kamarádku či kamaráda, obrátit se můžete i na dopravní služby, například
+Neztrácejte čas distribucí. Předáváním roušek můžete pověřit člena rodiny nebo kamarádku či kamaráda, obrátit se můžete i na dopravní služby, například
 **Česká pošta** umožňuje [rozesílání roušek zdarma](https://www.ceskaposta.cz/-/ceska-posta-zdarma-prepravuje-rousky).
 
-Najděte si v okolí **Distribuční místo** (mohou to být třeba lékárny nebo jiné otevřené obchody či radnice), kde můžete roušky zanechat. Distribuční místa jsou
-ty oranžové ikony s obrázkem budovy. Na mapě si je vyfiltrujete kliknutím na ikonu vpravo dole.
+Najděte si v okolí **Distribuční místo** (mohou to být třeba lékárny nebo jiné otevřené obchody či radnice či lokální [rouškovník) (/places?attr22575=d721&fcat=13331)), kde můžete roušky zanechat. Distribuční místa najde pod oranžovými ikonami s obrázkem budovy. Na mapě si je vyfiltrujete kliknutím na ikonu vpravo dole. Roušky můžete donést i na sběrná místa.
 
 ## Potřebujete upravit nebo smazat svoje údaje?
 
@@ -32,15 +29,13 @@ Chcete **upravit údaje**? Jiný e-mail nebo změnit podmínky? Pokud jste míst
 
 Na internetu najdete spoustu skvělých návodů, níže na ně najdete odkazy. 
 
-Jedna věc je ale zásadní – **při předání se zeptejte, zda výrobce roušky nakonec vyvařil** (tedy sterilizoval, to znamená zničil případné choroboplodné zárodky,
-které se do ní mohly - třeba od něj - dostat) Pokud roušky nejsou sterilizované a předávané v uzavřeném igelitovém sáčku, vysterilizujte je před nasazením sami.
+Jedna věc je ale zásadní – **při předání se zeptejte, zda výrobce roušky na závěr vyvařil** (tedy sterilizoval, to znamená zničil případné choroboplodné zárodky, které se do roušky mohly - třeba od něj - dostat). Pokud roušky nejsou sterilizované a předávané v uzavřeném igelitovém sáčku, vysterilizujte je před nasazením sami.
 Na jakou teplotu roušku prát nebo vyvařit v hrnci, jak dlouho žehlit a kde roušku skladovat se dozvíte
-[tady](https://www.irozhlas.cz/zivotni-styl/spolecnost/domaci-rousky-ochranne-prostredky-koronavirus-v-cesku-hygienicke-zasady_2003181744_onz) nebo
-[tady](https://www.smocr.cz/cs/novinky/a/jak-se-starat-o-doma-vyrobenou-rousku).
+[tady](https://www.irozhlas.cz/zivotni-styl/spolecnost/domaci-rousky-ochranne-prostredky-koronavirus-v-cesku-hygienicke-zasady_2003181744_onz) nebo [tady](https://www.smocr.cz/cs/novinky/a/jak-se-starat-o-doma-vyrobenou-rousku).
 
 * [Jak mám používat roušku?](https://www.rouskyvsem.cz/) (rouskyvsem.cz)
-* [Jak nasadit, používat, sundat a zlikvidovat ústní roušku](http://www.szu.cz/tema/prevence/jak-nasadit-pouzivat-sundat-a-zlikvidovat-ustni-rousku) (SZU.cz)
-* [Jak bezpečně zacházet s rouškou](https://blog.mall.cz/lifestyle/rousky-zjistete-k-cemu-slouzi-a-jak-je-spravne-pouzivat-1274.html) (Mall.cz)
+* [Jak nasadit, používat, sundat a zlikvidovat ústní roušku?](http://www.szu.cz/tema/prevence/jak-nasadit-pouzivat-sundat-a-zlikvidovat-ustni-rousku) (SZU.cz)
+* [Jak bezpečně zacházet s rouškou?](https://blog.mall.cz/lifestyle/rousky-zjistete-k-cemu-slouzi-a-jak-je-spravne-pouzivat-1274.html) (Mall.cz)
 
 ## Jak můžu pomoci, když nešiju?
 
@@ -86,9 +81,6 @@ Pokud budete mít potíže, napište nám na [damerousky@gmail.com](mailto:damer
 
 Dáváme přednost těm, kteří opravují jen za cenu materiálu.
 
-## Mohu opravit šicí stroj, co mám udělat?
-
-Napište nám na [damerousky@gmail.com](mailto:damerousky@gmail.com), zařadíme vaše místo do seznamu na stránce Opravy šicích strojů. Dáváme přednost těm, kteří opravují jen za cenu materiálu.
 
 ## Jak mám roušku získat?
 
@@ -108,20 +100,15 @@ Místa snadno vyfiltrujete kliknutím na příslušnou ikonu vpravo dole na map�
 
 Chráníte své okolí a tím zpětně i sebe.
 
-Podle výzkumů i doma vyrobené roušky mohou mít až 80% účinnost. Především pomáhají bránit šíření z infikovaných osob. Onemocnění COVID-19 může probíhat
-bez příznaků, sami tedy nevíte, zda nejste nakaženi a nešíříte virus dál.
+Podle výzkumů i doma vyrobené roušky mohou mít až 80% účinnost. Především pomáhají bránit šíření z infikovaných osob. Onemocnění COVID-19 navíc může probíhat bez příznaků, sami tedy nevíte, zda nejste nakaženi a nešíříte virus dál. 
 
 Pokud roušky budeme nosit všichni, můžeme tím šíření viru značně omezit.
 
-Více informací jak ušít vlastní roušku a pravidla jejího používání najdete pod odkazem [Jak vyrobit roušku a jak se o ni starat?](/vyroba-a-pece), také na
-[www.rouskyvsem.cz](https://www.rouskyvsem.cz) nebo [https://rouskyprovsechny.cz/beta](https://rouskyprovsechny.cz/beta)
+Návod jak ušít vlastní roušku a pravidla jejího používání najdete pod odkazem [Jak vyrobit roušku a jak se o ni starat?](/vyroba-a-pece), také na [www.rouskyvsem.cz](https://www.rouskyvsem.cz) nebo [https://rouskyprovsechny.cz/beta](https://rouskyprovsechny.cz/beta).
 
 Na Slovensku vznikl analogický projekt [Dajme ruška](https://www.mapotic.com/ruska-pre-slovensko).
 
 ## Kdo za webem stojí?
 
-Web vznikl ve spolupráci expertních dobrovolníků z komunity [Česko.Digital](https://cesko.digital). Starají se o něj Ria, Honza, Lucy a Martin
-a noví pomocníci přicházejí každý den. Celý projekt běží i díky podpoře [Mapotic.com](https://mapotic.com), která zdarma propůjčila své nástroje a podporu
-svých techniků. Pokud nám chcete napsat, můžete na [damerousky@gmail.com](mailto:damerousky@gmail.com).
+Web vznikl ve spolupráci expertních dobrovolníků z komunity [Česko.Digital](https://cesko.digital). Starají se o něj Ria, Honza, Lucy a Martin a noví pomocníci přicházejí každý den. Celý projekt běží i díky podpoře [Mapotic.com](https://mapotic.com), která zdarma propůjčila své nástroje a podporu svých techniků. Pokud nám chcete napsat, můžete na [damerousky@gmail.com (mailto:damerousky@gmail.com).
 
-xxxx
