@@ -15,15 +15,14 @@ Jakmile nabídka materiálu přestane platit, bod zrušte, předejdete tím dal�
 Neztrácejte čas distribucí. Předáváním roušek můžete pověřit člena rodiny nebo kamarádku či kamaráda, obrátit se můžete i na dopravní služby, například
 **Česká pošta** umožňuje [rozesílání roušek zdarma](https://www.ceskaposta.cz/-/ceska-posta-zdarma-prepravuje-rousky).
 
-Najděte si v okolí **Distribuční místo** (mohou to být třeba lékárny nebo jiné otevřené obchody či radnice či lokální [rouškovník) (/places?attr22575=d721&fcat=13331)), kde můžete roušky zanechat. Distribuční místa najde pod oranžovými ikonami s obrázkem budovy. Na mapě si je vyfiltrujete kliknutím na ikonu vpravo dole. Roušky můžete donést i na sběrná místa.
+Najděte si v okolí **Distribuční místo** - mohou to být třeba lékárny nebo jiné otevřené obchody či radnice či lokální [rouškovník](/places?attr22575=d721&fcat=13331), kde můžete roušky zanechat. Distribuční místa najde pod oranžovými ikonami s obrázkem budovy. Na mapě si je vyfiltrujete kliknutím na ikonu vpravo dole. Roušky můžete donést i na sběrná místa.
 
 ## Potřebujete upravit nebo smazat svoje údaje?
 
 Pokud **nestíháte šít** (jste zavaleni poptávkami), nastavte si v profilu červenou barvu, případně můžete místo hned zrušit. Pokud vám stav nejde změnit nebo bod
 zrušit, pošlete nám zprávu na [damerousky@gmail.com](mailto:damerousky@gmail.com) a my bod zrušíme nebo dočasně skryjeme, než se opět uvolníte.
 
-Chcete **upravit údaje**? Jiný e-mail nebo změnit podmínky? Pokud jste místo založili sami, po přihlášení můžete vše upravit. Některá místa jsme vložili za vás my
-– pokud je to ten případ, pak nám pošlete zprávu na [damerousky@gmail.com](mailto:damerousky@gmail.com) a my vše upravíme anebo převedeme místo pod váš účet.
+Chcete **upravit údaje**? Jiný e-mail nebo změnit podmínky? Pokud jste místo založili sami, po přihlášení můžete vše upravit. Některá místa jsme vložili za vás my – pokud je to ten případ, pak nám pošlete zprávu na [damerousky@gmail.com](mailto:damerousky@gmail.com) a my vše upravíme anebo převedeme místo pod váš účet.
 
 ## Jak správně zacházet s rouškou?
 
@@ -92,7 +91,7 @@ Dole pak vyberte zelenou ikonu pro zobrazení míst, které mají roušky ušit�
 
 Také se můžete domluvit se žlutým místem a donést materiál. Některá místa využívají objednávkový formulář, jiná e-mail, další telefon.
 
-Roušky také můžete získat na některém z distribučních míst - oranžová ikona s budovou. 
+Roušky také můžete získat na některém z distribučních míst - oranžová ikona s budovou. Roušky vydá distribuční (výdejní) místo, nebo se může někde v blízkosti nacházet [rouškovník](/places?attr22575=d721&fcat=13331).
 
 Místa snadno vyfiltrujete kliknutím na příslušnou ikonu vpravo dole na mapě.
 
