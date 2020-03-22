@@ -8,7 +8,7 @@ Zároveň můžete zadat do mapy sebe jako instituci, která roušky potřebuje.
 Pokud byste měli jakékoli potíže, pište nám na damerousky@gmail.com.
 
 ### Pro jednotlivce
-Poté, co jste zadali svou adresu nebo město, dole vyberte **zelenou** ikonu pro zobrazení míst, které mají roušky ušité a k dispozici. Domluvte se na odměně - tou může být například přinesený nákup, léky. 
+Poté, co jste zadali svou adresu nebo město, dole vyberte **zelenou** ikonu pro zobrazení míst, které mají roušky ušité a k dispozici. Domluvte se na odměně - pokud švadlena nebude chtít peníze, můžete jí nabídnout třeba přinesení nákupu nebo vymyslíte něco jiného, co by ji potěšilo.
 
 ![Snímek obrazovky s ovládáním mapy](/obrazky/jak-ziskat.webp)
 
