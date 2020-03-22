@@ -28,7 +28,7 @@ s distribucí kontaktujte „zelená“ místa.
 plateb více, nechte si do sáčku vložit i poznámku se jménem a celkovou částkou. Na bankovky nesahejte alespoň 24 hodin, se sáčky zacházejte jen v rukavicích.
 * Po usednutí do auta si vydezinfikujte ruce.
 
-Jako kurýr se můžete pomáhat i na webu [Sousedská pomoc](https://sousedskapomoc.cz/). Stačí zadat vaše město a pak
+Jako kurýr můžete pomáhat i prostřednictvím webu [Sousedská pomoc](https://sousedskapomoc.cz/). Stačí zadat vaše město a pak
 v [jednoduchém formuláři](https://sousedskapomoc.cz/#iWanaBeThere) vyplníte, v jaké roli chcete pomáhat.
 
 ## Staňte se dobrovolníkem
