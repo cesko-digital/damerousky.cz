@@ -18,4 +18,4 @@ potřebujete dovézt. Začnete tady: https://sousedskapomoc.cz/homepage/post-dem
 ## Další
 
 Dobré rady najdete také v článku [Senioři a karanténa](https://dvojka.rozhlas.cz/seniori-a-karantena-odpovedi-na-nejcastejsi-otazky-8164433)
-nebo v článku [co dělat, když mám podezření na onemocnění](https://www.i60.cz/clanek/detail/25211/o-koronaviru-prehledne-kontakty-linky-pomoci-rady-co-delat-kdyz-mam-podezreni-na-onemocneni).
+nebo v článku [Co dělat, když mám podezření na onemocnění](https://www.i60.cz/clanek/detail/25211/o-koronaviru-prehledne-kontakty-linky-pomoci-rady-co-delat-kdyz-mam-podezreni-na-onemocneni).
