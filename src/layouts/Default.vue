@@ -6,25 +6,19 @@
                 <v-toolbar-title>DámeRoušky.cz</v-toolbar-title>
             </v-btn>
             <v-toolbar-items>
-                <v-btn href="/mapa" text>Mapa roušek</v-btn>
+                <v-btn href="/mapa" text>Mapa</v-btn>
+                <v-btn href="/vytvorit-misto" text>Nové místo</v-btn>
+                <v-btn href="/ziskat-rousku" text>Získat roušku</v-btn>
+                <v-btn text>Přeprava</v-btn>
+                <v-btn href="/english-info" text>EN</v-btn>
                 <v-menu offset-y>
                     <template v-slot:activator="{ on }">
-                        <v-btn text append="" v-on="on">Informace</v-btn>
+                        <v-btn text append="" v-on="on">Rozcestník</v-btn>
                     </template>
                     <v-list>
-                        <v-list-item link href="/vytvorit-misto">
+                        <v-list-item link href="/pro-seniory">
                             <v-list-item-content>
-                                <v-list-item-title>Jak vytvořit nové místo</v-list-item-title>
-                            </v-list-item-content>
-                        </v-list-item>
-                        <v-list-item link href="/najit-mista">
-                            <v-list-item-content>
-                                <v-list-item-title>Jak najít nejbližší místa s rouškou</v-list-item-title>
-                            </v-list-item-content>
-                        </v-list-item>
-                        <v-list-item link href="/ziskat-rousku">
-                            <v-list-item-content>
-                                <v-list-item-title>Jak získám roušku?</v-list-item-title>
+                                <v-list-item-title>Informace pro seniory</v-list-item-title>
                             </v-list-item-content>
                         </v-list-item>
                         <v-list-item link href="/vyroba-a-pece">
@@ -42,19 +36,9 @@
                                 <v-list-item-title>Opravy šicích strojů</v-list-item-title>
                             </v-list-item-content>
                         </v-list-item>
-                        <v-list-item link href="/pro-seniory">
-                            <v-list-item-content>
-                                <v-list-item-title>Informace pro seniory</v-list-item-title>
-                            </v-list-item-content>
-                        </v-list-item>
                         <v-list-item link href="/faq">
                             <v-list-item-content>
                                 <v-list-item-title>Časté dotazy (a odpovědi)</v-list-item-title>
-                            </v-list-item-content>
-                        </v-list-item>
-                        <v-list-item link href="/english-info">
-                            <v-list-item-content>
-                                <v-list-item-title>Basic information in English</v-list-item-title>
                             </v-list-item-content>
                         </v-list-item>
                         <v-list-item link href="/web-a-data">
@@ -62,13 +46,6 @@
                                 <v-list-item-title>O webu a vašich datech</v-list-item-title>
                             </v-list-item-content>
                         </v-list-item>
-<!--
-                        <v-list-item link href="/o-nas">
-                            <v-list-item-content>
-                                <v-list-item-title>O nás</v-list-item-title>
-                            </v-list-item-content>
-                        </v-list-item>
--->
                     </v-list>
                 </v-menu>
             </v-toolbar-items>
