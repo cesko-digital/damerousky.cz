@@ -58,7 +58,7 @@
             <slot/>
         </v-content>
         <v-footer color="primary" app>
-            <span class="caption">© 2020 <a href="https://cesko.digital" class="black--text">Česko.Digital</a> a přispěvatelé</span>
+            <span class="caption">© 2020 <a href="https://cesko.digital" class="black--text">Česko.Digital</a> a přispěvatelé. Pro mapu používáme službu <a href="https://www.mapotic.com/" title="Mapotic – vytváření komunitních map"><img src="https://www.mapotic.com/assets/img/mapotic-big-font.svg" id="mapotic" alt="Mapotic.com" /></a>. Děkujeme!</span>
         </v-footer>
     </v-app>
 </template>
@@ -74,5 +74,12 @@
 <style>
     .v-application .container a {
         color: #FF6F00 !important;
+    }
+
+    #mapotic {
+        position: relative;
+        top: 2px;
+        height: 13px;
+        width: auto;
     }
 </style>
