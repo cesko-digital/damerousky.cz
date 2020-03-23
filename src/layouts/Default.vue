@@ -9,7 +9,7 @@
                 <v-btn href="/mapa" text>Mapa</v-btn>
                 <v-btn href="/vytvorit-misto" text>Nové místo</v-btn>
                 <v-btn href="/ziskat-rousku" text>Získat roušku</v-btn>
-                <v-btn text>Přeprava</v-btn>
+<!--                <v-btn text>Přeprava</v-btn>-->
                 <v-btn href="/english-info" text>EN</v-btn>
                 <v-menu offset-y>
                     <template v-slot:activator="{ on }">
