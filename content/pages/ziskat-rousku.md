@@ -1,5 +1,7 @@
 # Jak získám roušku?
-**Abyste získali roušku, nemusíte se registrovat.** Stačí najít nejbližší místo, které má roušky k dispozici a spojit se s nimi. Kontakt najdete vždy **v popisku místa**, nebo využijte jejich **objednávkový formulář**, pokud je na něj uvedený odkaz. Je to lepší, než psát do komentářů k danému místu - **máte větší jistotu, že švadlena o vás bude vědět**.
+**Kvůli získání roušky nové místo nezakládejte, ani se neregistrujte. Existuje rychlejší a snadnější cesta.**
+
+Stačí najít nejbližší místo, které má roušky k dispozici a spojit se s nimi. Kontakt najdete vždy **v popisku místa**, nebo využijte jejich **objednávkový formulář**, pokud je na něj uvedený odkaz. Je to lepší, než psát do komentářů k danému místu - **máte větší jistotu, že švadlena o vás bude vědět**.
 
 ## Jak najdu nejbližší místo s rouškami?
 
