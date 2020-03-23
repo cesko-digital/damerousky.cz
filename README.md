@@ -1,5 +1,4 @@
 # Statický web damerousky.cz
-Adresa webu pro vývoj: https://damerousky-cz.now.sh
 
 ## Editace statického obsahu
 Statický obsah (stránky pod odkazem *Informace*) je psaný v [Markdownu](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
