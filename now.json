@@ -1,8 +1,17 @@
 {
+  "version": 2,
   "redirects": [
     {
       "source": "/(\\d+-.+)",
       "destination": "/mapa?id=$1"
+    },
+    {
+      "source": "/places",
+      "destination": "/mapa?places"
+    },
+    {
+      "source": "/user/(\\d+)",
+      "destination": "/mapa?user?user=$1"
     },
     {
       "source": "/",
@@ -58,5 +67,9 @@
       "source": "/page/rozcestnik",
       "destination": "/rozcestnik"
     }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 404, "dest": "/404.html" }
   ]
 }

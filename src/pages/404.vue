@@ -1,7 +1,9 @@
 <template>
     <Layout>
         <v-container>
-            <h1>DámeRoušky.cz</h1>
+            <h1>Stránka nenalezena</h1>
+            <p>Je nám líto, ale požadovaná stránka na serveru neexistuje. Použijte prosím některý z odkazů v záhlaví stránky.</p>
+
             <h2>Šijete roušky? Přidejte se na mapu!</h2>
             <p>Přidejte nové místo do kategorie „nabízím/šiju roušky“. Do popisu přidejte kontakt na vás (ideálně e-mail). A nastavte, zda jsou „zdarma“ anebo
                 „placené“.</p>
