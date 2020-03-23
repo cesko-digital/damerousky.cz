@@ -1,0 +1,11 @@
+# Rozcestník
+* [Mapa](/mapa)
+* [Nové místo](/vytvorit-misto)
+* [Získat roušku](/ziskat-rousku)
+* [Basic information in English](/english-info)
+* [Informace pro seniory](/pro-seniory)
+* [Jak vyrobit roušku a jak se o ni starat?](/vyroba-a-pece)
+* [Jak pomoci, když nešiju?](/nesiju)
+* [Opravy šicích strojů](/opravy-sicich-stroju)
+* [Časté dotazy (a odpovědi)](/faq)
+* [O webu a vašich datech](/web-a-data)
