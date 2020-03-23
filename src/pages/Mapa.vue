@@ -17,6 +17,15 @@
             if (id != null) {
                 this.mapURL = baseMapURL + id;
             }
+            let user = params.get('user');
+            if (user != null) {
+                this.mapURL = baseMapURL + 'user/' + user;
+            }
+            let places = params.get('places');
+            if (places != null) {
+                params.delete('places')
+                this.mapURL = baseMapURL + 'places?' + params.toString();
+            }
         }
     }
 </script>

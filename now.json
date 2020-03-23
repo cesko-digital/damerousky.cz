@@ -11,7 +11,7 @@
     },
     {
       "source": "/user/(\\d+)",
-      "destination": "/mapa?user?user=$1"
+      "destination": "/mapa?user=$1"
     },
     {
       "source": "/",
