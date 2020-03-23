@@ -39,8 +39,8 @@ Příklad: *Jiřina, šiju 10 denně, nevyvařuji.* nebo *Ráda pošlu už nast�
 11. Pak vás stránka vyzve k **registraci** (ta je zdarma, e-mailem nebo přes Facebook). Registrujte se, abyste mohli později své místo
  upravit (hodí se, když nestíháte šít nebo potřebujete materiál), nebo smazat. Nezapomeňte **potvrdit registrační e-mail**, může se stát, že bude ve složce Spam nebo Junk. Pokud jej tedy nenajdete v příchozí poště, podívejte se i tam.
 
-
-## Pokud šijete, u svého profilu si můžete nastavit „semafor“:
+ 
+ ## Pokud šijete, u svého profilu si můžete nastavit „semafor“:
 * zelená = Mám roušky, ozvěte se.
 * žlutá = Chybí mi materiál, doneste prosím!
 * červená = Pracuju a nestíhám. Prosím nepište, počkejte.
