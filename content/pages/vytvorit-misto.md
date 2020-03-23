@@ -1,14 +1,18 @@
 # Jak vytvořit nové místo
-**Cílem webu damerousky.cz je mít přehled, jaká je aktuální potřeba roušek a kde.** 
+**Cílem webu damerousky.cz je mít přehled, jaká je aktuální potřeba roušek a kde.**
 
 ## Nabízíte roušky, materiál, nebo opravu šicího stroje?
 Ať už sedíte doma u šicího stroje, nebo jste  **velkokapacitní výrobna roušek** či **poskytovatel materiálu**, přidejte se na mapu. Skrze mapu můžete nabídnout i materiál, nebo **opravu šicích strojů**.
 **Vytvořit místo je jednoduché. Návod najdete níže.**
 
-## Roušky potřebuji
+## Jsem jednotlivec a roušku potřebuji
+Pokud jste jednotlivec a potřebujete roušku, **přečtěte si, [jak kontaktovat ty, které mají roušky k dispozici](/ziskat-rousku). Nové místo nezakládejte.**
+
+## Jsem instituce a roušky potřebuji
 Jste **nemocnice**, **lékař**, **instituce**, **záchranáři** nebo **domov důchodců** a potřebujete roušky? 
-Pomocí **pinu s červeným vykřičníkem** můžete dát vědět, kolik roušek u vás aktuálně chybí.
-Pro doručení roušek kontaktujte přímo **sběrné místo** ve své blízkosti. Také můžete založit místo na mapě, nebo nás kontaktujte na [damerousky@gmail.com](mailto:damerousky@gmail.com).
+Založte nové místo - **pin s červeným vykřičníkem** a  napište, kolik roušek u vás aktuálně chybí. 
+Pro doručení roušek můžete také kontaktovat přímo **sběrné místo** ve své blízkosti.
+Pokud budete mít potíže, kontaktujte nás na [damerousky@gmail.com](mailto:damerousky@gmail.com).
 
 ## Roušky mohu distribuovat
 **Distribuční místa** roušky sbírají a pak rozdávají lidem, kteří si pro ně přijdou. Distribuční místa vznikají nejčastěji na radnicích, úřadech, v některých obchodech jako jsou supermarkety nebo pumpy, ale můžete se setkat i s rouškovníkem, ze kterého lidé sami a zdarma roušky berou.
@@ -17,7 +21,7 @@ Pro doručení roušek kontaktujte přímo **sběrné místo** ve své blízkost
 **Sběrná místa** pak sbírají roušky pro instituce a nemocnice. Tam je možné roušky pouze donést. Pokud chcete založit sběrné místo, napište nám na [damerousky@gmail.com](mailto:damerousky@gmail.com).
 
 
-## Jak založit nové místo
+# Jak založit nové místo
 1. Vpravo nahoře klikněte červené tlačítko **Přidat místo** (Add a place).
 2. Zadejte **název města** a pokud se rozbalí seznam obcí, vyberte tu svoji.
 3. Svoje místo **pojmenujte** – zadejte svoje jméno, firmy nebo úřadu.
@@ -33,7 +37,8 @@ Příklad: *Jiřina, šiju 10 denně, nevyvařuji.* nebo *Ráda pošlu už nast�
  orientační cenu za jednu roušku, za metr látky, za opravu.
 10. Uložte červeným tlačitkem **Přidat místo** (Add a place).
 11. Pak vás stránka vyzve k **registraci** (ta je zdarma, e-mailem nebo přes Facebook). Registrujte se, abyste mohli později své místo
- upravit (hodí se, když nestíháte šít nebo potřebujete materiál), nebo smazat.
+ upravit (hodí se, když nestíháte šít nebo potřebujete materiál), nebo smazat. Nezapomeňte **potvrdit registrační e-mail**, může se stát, že bude ve složce Spam nebo Junk. Pokud jej tedy nenajdete v příchozí poště, podívejte se i tam.
+
 
 ## Pokud šijete, u svého profilu si můžete nastavit „semafor“:
 * zelená = Mám roušky, ozvěte se.
