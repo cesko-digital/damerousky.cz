@@ -1,4 +1,4 @@
-# Statický web damerousky.cz
+# Statický web www.damerousky.cz
 
 ## Editace statického obsahu
 Statický obsah (stránky pod odkazem *Informace*) je psaný v [Markdownu](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
