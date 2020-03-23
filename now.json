@@ -1,70 +1,87 @@
 {
-  "redirects": [
+  "routes": [
     {
-      "source": "/(\\d+-.+)",
-      "destination": "/mapa?id=$1"
+      "src": "/about-us",
+      "status": 308,
+      "headers": { "Location": "/o-nas"}
     },
     {
-      "source": "/places",
-      "destination": "/mapa?places"
+      "src": "/page/jak-vytvorit-nove-misto",
+      "status": 308,
+      "headers": { "Location": "/vytvorit-misto"}
     },
     {
-      "source": "/user/(\\d+)",
-      "destination": "/mapa?user=$1"
+      "src": "/page/jak-najit-nejblizsi-mista-s-rouskou",
+      "status": 308,
+      "headers": { "Location": "/najit-mista"}
     },
     {
-      "source": "/",
-      "destination": "/mapa",
-      "statusCode": 303
-    },
-    {
-      "source": "/about-us",
-      "destination": "/o-nas"
-    },
-    {
-      "source": "/page/jak-vytvorit-nove-misto",
-      "destination": "/vytvorit-misto"
-    },
-    {
-      "source": "/page/jak-najit-nejblizsi-mista-s-rouskou",
-      "destination": "/najit-mista"
-    },
-    {
-      "source": "/page/jak-ziskam-rousku",
-      "destination": "/ziskat-rousku"
+      "src": "/page/jak-ziskam-rousku",
+      "status": 308,
+      "headers": { "Location": "/ziskat-rousku"}
     },
 
     {
-      "source": "/page/jak-vyrobit-rousku-a-jak-se-o-ni-starat",
-      "destination": "/vyroba-a-pece"
+      "src": "/page/jak-vyrobit-rousku-a-jak-se-o-ni-starat",
+      "status": 308,
+      "headers": { "Location": "/vyroba-a-pece"}
     },
     {
-      "source": "/page/jak-pomoci-kdyz-nesiju",
-      "destination": "/nesiju"
+      "src": "/page/jak-pomoci-kdyz-nesiju",
+      "status": 308,
+      "headers": { "Location": "/nesiju"}
     },
     {
-      "source": "/page/opravy-sicich-stroju",
-      "destination": "/opravy-sicich-stroju"
+      "src": "/page/opravy-sicich-stroju",
+      "status": 308,
+      "headers": { "Location": "/opravy-sicich-stroju"}
     },
     {
-      "source": "/page/informace-pro-seniory",
-      "destination": "/pro-seniory"
+      "src": "/page/informace-pro-seniory",
+      "status": 308,
+      "headers": { "Location": "/pro-seniory"}
     },
     {
-      "source": "/page/caste-dotazy-a-odpovedi",
-      "destination": "/faq"
+      "src": "/page/caste-dotazy-a-odpovedi",
+      "status": 308,
+      "headers": { "Location": "/faq"}
     },
     {
-      "source": "/page/basic-information-in-english",
-      "destination": "/english-info"
+      "src": "/page/basic-information-in-english",
+      "status": 308,
+      "headers": { "Location": "/english-info"}
     },
     {
-      "source": "/page/o-webu-a-vasich-datech",
-      "destination": "/web-a-data"
+      "src": "/page/o-webu-a-vasich-datech",
+      "status": 308,
+      "headers": { "Location": "/web-a-data"}
     },
     {
-      "source": "/page/rozcestnik",
-      "destination": "/rozcestnik"
-    }
+      "src": "/page/rozcestnik",
+      "status": 308,
+      "headers": { "Location": "/rozcestnik"}
+    },
+    {
+      "src": "/places(?.+)",
+      "status": 308,
+      "headers": { "Location": "/mapa?places&$1"}
+    },
+    {
+      "src": "/user/(\\d+)",
+      "status": 308,
+      "headers": { "Location": "/mapa?user=$1"}
+    },
+    {
+      "src": "/(\\d+-.+)",
+      "status": 308,
+      "headers": { "Location": "/mapa?id=$1"}
+    },
+    {
+      "src": "/",
+      "status": 303,
+      "headers": { "Location": "/mapa"}
+    },
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 404, "dest": "/404.html" }
   ]
 }
