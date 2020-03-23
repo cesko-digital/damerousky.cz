@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "redirects": [
     {
       "source": "/(\\d+-.+)",
@@ -67,9 +66,5 @@
       "source": "/page/rozcestnik",
       "destination": "/rozcestnik"
     }
-  ],
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.*)", "status": 404, "dest": "/404.html" }
   ]
 }
