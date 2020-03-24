@@ -11,6 +11,10 @@ Hned několik návodů a videí najdete v tomto [článku](https://www.irozhlas.
 
 Spousta návodů je pak sepsaná v [tomto dokumentu](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview).
 
+## Jak ušít roušku s kapsu na filtr
+Takováto rouška může být později doplněna vyměnitelnými filtry, které zvyšují její účinnost.
+Návod na výrobu této roušky [zde](https://www.rouskystulkou.org/rousky-s-filtrem).
+
 ## Jak se o roušku starat
 Na jakou teplotu prát, jak dlouho žehlit a kde skladovat se dozvíte [tady](https://www.irozhlas.cz/zivotni-styl/spolecnost/domaci-rousky-ochranne-prostredky-koronavirus-v-cesku-hygienicke-zasady_2003181744_onz)
 nebo [tady](https://www.smocr.cz/cs/novinky/a/jak-se-starat-o-doma-vyrobenou-rousku). 
