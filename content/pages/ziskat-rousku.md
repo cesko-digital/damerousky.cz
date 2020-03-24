@@ -13,7 +13,6 @@ Poté, co jste zadali svou adresu nebo město, dole vyberte **zelenou** ikonu pr
 Také se můžete domluvit se **žlutým** místem a donést materiál. Některá místa využívají objednávkovou tabulku, jiná e-mail, další telefon.
 
 Roušky můžete získat i na některém z **distribučních míst** – **oranžová ikona s budovou**. Prosíme nezapomínejte, že i tato místa organizují dobrovolníci z řad veřejnosti, nejedná se o státem organizovanou distribuci zásob.
-Místa vyfiltrujete kliknutím na příslušnou ikonu vpravo dole na mapě.
 
 Roušky si můžete nechat i zaslat. Zdarma je posílá Česká pošta.
 
