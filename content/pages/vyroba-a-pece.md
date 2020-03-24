@@ -11,7 +11,7 @@ Hned několik návodů a videí najdete v tomto [článku](https://www.irozhlas.
 
 Spousta návodů je pak sepsaná v [tomto dokumentu](https://docs.google.com/document/d/196nnOt7xF2vrkI66Pxy3nXILoQDO5oppffC94bq0iK0/preview).
 
-## Jak ušít roušku s kapsu na filtr
+## Jak ušít roušku s kapsou na filtr
 Taková rouška může být později doplněna vyměnitelnými filtry, které zvyšují její účinnost.
 Návod na výrobu [zde](https://www.rouskystulkou.org/rousky-s-filtrem).
 
