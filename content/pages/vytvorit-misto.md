@@ -12,7 +12,7 @@ Pokud jste jednotlivec a potřebujete roušku, **přečtěte si, [jak kontaktova
 Jste **nemocnice**, **lékař**, **instituce**, **záchranáři** nebo **domov důchodců** a potřebujete roušky? 
 Založte nové místo - **pin s červeným vykřičníkem** a  napište, kolik roušek u vás aktuálně chybí. 
 Pro doručení roušek můžete také kontaktovat přímo **sběrné místo** ve své blízkosti.
-Pokud budete mít potíže, kontaktujte nás na [damerousky@gmail.com](mailto:damerousky@gmail.com).
+Přápadně nás kontaktujte přímo na [damerousky@gmail.com](mailto:damerousky@gmail.com) a my Vám jej s radostí založíme.
 
 ## Roušky mohu distribuovat
 **Distribuční místa** roušky sbírají a pak rozdávají lidem, kteří si pro ně přijdou. Distribuční místa vznikají nejčastěji na radnicích, úřadech, v některých obchodech jako jsou supermarkety nebo pumpy, ale můžete se setkat i s rouškovníkem, ze kterého lidé sami a zdarma roušky berou.
