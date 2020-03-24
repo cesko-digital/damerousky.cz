@@ -65,6 +65,11 @@
     {
       "source": "/page/rozcestnik",
       "destination": "/rozcestnik"
-    }
+    },
+    {
+      "source": "/page/semafor",
+      "destination": "/semafor"
+    },
+
   ]
 }
