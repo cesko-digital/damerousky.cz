@@ -9,8 +9,8 @@ Ať už sedíte doma u šicího stroje, nebo jste  **velkokapacitní výrobna ro
 Pokud jste jednotlivec a potřebujete roušku, **přečtěte si, [jak kontaktovat ty, které mají roušky k dispozici](/ziskat-rousku). Nové místo nezakládejte.**
 
 ## Jsem instituce a roušky potřebuji
-Jste **nemocnice**, **lékař**, **instituce**, **záchranáři** nebo **domov důchodců** a potřebujete roušky? 
-Založte nové místo - **pin s červeným vykřičníkem** a  napište, kolik roušek u vás aktuálně chybí. 
+Jste **nemocnice**, **lékař**, **instituce**, **záchranáři** nebo **domov důchodců** a potřebujete roušky?
+Založte nové místo - **pin s červeným vykřičníkem** a  napište, kolik roušek u vás aktuálně chybí.
 Pro doručení roušek můžete také kontaktovat přímo **sběrné místo** ve své blízkosti.
 Případně nás kontaktujte přímo na [damerousky@gmail.com](mailto:damerousky@gmail.com) a my jej s radostí založíme.
 
@@ -20,14 +20,13 @@ Případně nás kontaktujte přímo na [damerousky@gmail.com](mailto:damerousky
 
 **Sběrná místa** pak sbírají roušky pro instituce a nemocnice. Tam je možné roušky pouze donést. Pokud chcete založit sběrné místo, napište nám na [damerousky@gmail.com](mailto:damerousky@gmail.com).
 
-
 # Jak založit nové místo
 1. Vpravo nahoře klikněte červené tlačítko **Přidat místo** (Add a place).
 2. Zadejte **název města** a pokud se rozbalí seznam obcí, vyberte tu svoji.
 3. Svoje místo **pojmenujte** – zadejte svoje jméno, firmy nebo úřadu.
 4. Obrázek nahrávat nemusíte.
 5. V **Kategorii** (Category) níže vyberte tu správnou variantu.
-**TIP**: Pokud šijete, stav místa můžete kdykoliv změnit podle aktuální situace – podívejte se na ikony „semaforu“ pod návodem.
+**TIP**: Pokud šijete, své výrobní možnosti můžete kdykoliv změnit dle situace pomocí [semaforu](/semafor).
 6. Do pole **Popis** (Description) zadejte popis. Připište také, zda roušky vyvařujete.
 Příklad: *Jiřina, šiju 10 denně, nevyvařuji.* nebo *Ráda pošlu už nastříhané látky. Napište mi rozměry.*
 **TIP**: Pokud šijete roušky, můžete vložit i odkaz na svůj objednávkový formulář. Jak formulář získat se dozvíte níže.
@@ -39,17 +38,9 @@ Příklad: *Jiřina, šiju 10 denně, nevyvařuji.* nebo *Ráda pošlu už nast�
 11. Pak vás stránka vyzve k **registraci** (ta je zdarma, e-mailem nebo přes Facebook). Registrujte se, abyste mohli později své místo
  upravit (hodí se, když nestíháte šít nebo potřebujete materiál), nebo smazat. Nezapomeňte **potvrdit registrační e-mail**, může se stát, že bude ve složce Spam nebo Junk. Pokud jej tedy nenajdete v příchozí poště, podívejte se i tam.
 
- 
- ## Pokud šijete, u svého profilu si můžete nastavit „semafor“:
-* zelená = Mám roušky, ozvěte se.
-* žlutá = Chybí mi materiál, doneste prosím!
-* červená = Pracuju a nestíhám. Prosím nepište, počkejte.
-
-![snímek části obrazovky s filtry](/obrazky/semafor.png "Použití filtrů jako semaforu.")
-
 ## Jak na tabulku objednávek
 Objednávky spravujte, jak budete chtít, třeba e-mailem. Nám se osvědčilo použít **objednávkovou tabulku**. Lidé se do ní mohou sami
-zapisovat. A vy můžete reagovat, označovat co už je hotové, případně doplňovat termín pro vyzvednutí. Pokud ji použijete, nezapomeňte **odkaz na tabulku uvést do popisu vašeho místa**. 
+zapisovat. A vy můžete reagovat, označovat co už je hotové, případně doplňovat termín pro vyzvednutí. Pokud ji použijete, nezapomeňte **odkaz na tabulku uvést do popisu vašeho místa**.
 
 Na [tomto odkazu](https://docs.google.com/spreadsheets/d/1w6YsVZd8Xq7XFZ6a11Xe2Tyk1199KwZUCfrZaCpDdN8/edit#gid=0) najdete
 objednávkovou tabulku.
@@ -70,4 +61,4 @@ nosit hotové roušky a vy je budete distribuovat dál. Je proto důležité **z
 
 ## Něco na webu nefunguje?
 Pokud máte potíže, podívejte se nejdříve na [často kladené otázky](/faq).
-Pokud tam řešení nenajdete, kontaktuje správce webu na [damerousky@gmail.com](mailto:damerousky@gmail.com).
+Pokud tam řešení nenajdete, kontaktuje nás na [damerousky@gmail.com](mailto:damerousky@gmail.com).
