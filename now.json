@@ -69,7 +69,6 @@
     {
       "source": "/page/semafor",
       "destination": "/semafor"
-    },
-
+    }
   ]
 }
