@@ -2,6 +2,7 @@
 
 Tento repozitář prozatím není nasazen a web [damerousky.cz](damerousky.cz) běží na hostované platformě [https://mapotic.com](https://mapotic.com). Pokud se s námi chcete spojit napište nám na damerousky@gmail.com.
 
+## English
 This repo is not deployed at the moment. [damerousky.cz](damerousky.cz) currently runs directly on the [https://mapotic.com](https://mapotic.com) platform. In case you want to deploy a clone, please contact us at damerousky@gmail.com and we will facilitate help.
 
 
