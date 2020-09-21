@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "alias": ["damerousky.cz", "www.damerousky.cz"],
+    "trailingSlash": false,
+    "rewrites": [
+        { "source": "/en", "destination": "/en.html" }
+    ]
+}
