@@ -4,5 +4,8 @@
     "trailingSlash": false,
     "rewrites": [
         { "source": "/en", "destination": "/en.html" }
+    ],
+    "redirects": [
+        { "source": "/security.txt", "destination": "/.well-known/security.txt" }
     ]
 }
