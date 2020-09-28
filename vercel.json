@@ -3,10 +3,14 @@
     "alias": ["damerousky.cz", "www.damerousky.cz"],
     "trailingSlash": false,
     "rewrites": [
-        { "source": "/en", "destination": "/en.html" },
-        { "source": "/(.*)", "destination": "/" }
+        { "source": "/en", "destination": "/en.html" }
     ],
     "redirects": [
-        { "source": "/security.txt", "destination": "/.well-known/security.txt" }
+        { "source": "/security.txt", "destination": "/.well-known/security.txt" },
+        { "source": "/places(.*)", "destination": "https://www.mapotic.com/rouskyven/places%1" },
+        { "source": "/(^\\d.*)", "destination": "https://www.mapotic.com/rouskyven/%1" },
+        { "source": "/search-results?q=(.*)", "destination": "https://www.mapotic.com/rouskyven/search-results?q=%1" },
+        { "source": "/search%-results%?q%=(.*)", "destination": "https://www.mapotic.com/rouskyven/search-results?q=%1" },
+        { "source": "/(.*)", "destination": "/", "permanent": false }
     ]
 }
