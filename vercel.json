@@ -8,7 +8,7 @@
     "redirects": [
         { "source": "/security.txt", "destination": "/.well-known/security.txt" },
         { "source": "/places(.*)", "destination": "https://www.mapotic.com/rouskyven/places$1" },
-        { "source": "/(^[0-9].*)", "destination": "https://www.mapotic.com/rouskyven/$1" },
+        { "source": "(/\\d*-.*)", "destination": "https://www.mapotic.com/rouskyven$1" },
         { "source": "/search-results(.*)", "destination": "https://www.mapotic.com/rouskyven/search-results$1" }
     ]
 }
